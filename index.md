@@ -26,7 +26,7 @@
 
 ---
 
-### Category Name 3
+### Unsupervised Machine Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -36,7 +36,7 @@
 
 ---
 
-### Category Name 4
+### Deep Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
