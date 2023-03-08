@@ -46,7 +46,7 @@
 
 ### Unsupervised Deep Learning
 
-- [Self Organizing Maps: Developing a fraud detection model based on the credit card application data of a bank](http://example.com/)
+- [Self Organizing Maps (SOM): Developing a fraud detection model based on the credit card application data of a bank](http://example.com/)
 - [Boltzmann Machines: Developing a recommender system based on ratings given to various movies by different users](http://example.com/)
 - [AutoEncoders: Utilizing autoencoders to develop a recommender system based on ratings given to various movies by different users](http://example.com/)
 
