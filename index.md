@@ -19,16 +19,16 @@
 [Linear Regression: Developing a model to evaluate clothing sell pattern of an Ecommerce company](http://example.com/)
 
 ---
-[Logistic Regression: Developing a model to predict whether or not a particular internet user will click on an Advertisement](http://example.com/)
+[Logistic Regression: Developing a model to predict whether or not a particular internet user will click on an advertisement link](http://example.com/)
 
 ---
-[K Nearest Neighbors: Developing a model to make predictions based on an anonymized medical dataset](http://example.com/)
+[K Nearest Neighbors: Developing a model to make predictions based on features in an anonymized medical dataset](http://example.com/)
 
 ---
 [Decision Trees and Random Forest: Developing a model to predict whether or not borrowers paid back their loans using LendingClub database](http://example.com/)
 
 ---
-[Support Vector Machines: Developing a model to predict flower type based in features using Iris flower dataset](http://example.com/)
+[Support Vector Machines: Developing a model to predict the type of a flower based on features on an Iris flower dataset](http://example.com/)
 
 ---
 [Natural Language Processing (NLP): Developing a model to classify Yelp reviews to 1-star or 5-star categories based on the text content of their reviews](http://example.com/)
@@ -37,10 +37,10 @@
 
 ### Unsupervised Machine Learning
 
-[K Mean Clustering: Develop a model to cluster universities into to groups: private and public](http://example.com/)
+[K Mean Clustering: Developing a model to cluster universities into to groups: private and public](http://example.com/)
 
 ---
-[Principal Component Analysis (PCA): Develop a model to reduce dimensionality within a cancer dataset](http://example.com/)
+[Principal Component Analysis (PCA): Developing a model to reduce dimensionality within a cancer dataset](http://example.com/)
 
 ---
 
