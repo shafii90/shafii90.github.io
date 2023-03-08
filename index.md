@@ -5,11 +5,9 @@
 ### Exploratory Data Analysis
 
 [Bank Stocks throughout the Financial Crisis from Google Finance](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[911 Call Data from Kaggle](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[911 Call Data from Kaggle](/sample_page)
 
 ---
 
